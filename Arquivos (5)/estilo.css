@@ -1,0 +1,31 @@
+p {
+    color: rgb(232, 255, 30);
+    background-color: rgb(192, 190, 223);
+    font-family: Verdana;
+    font-size: 300%;
+}
+
+p {
+    color: rgb(19, 0, 71);
+    font-family: Courier;
+    font-size: 160%;
+
+}
+p{
+border: saddlebrown solid 2px;
+
+
+}
+h1{
+border-radius: 20px 30px 20px 0;
+font-size: 38px;
+background-color: rgb(0, 255, 255);
+
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(133, 128, 201);
+
+}
